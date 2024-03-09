@@ -1,4 +1,4 @@
-donation_app
+Donate2Share (donation_app)
 
 A new Flutter project.
 Getting Started
